@@ -4,11 +4,12 @@ div {
     border-radius: 5px;
 }
 
-span{
-    background-color: yellow;
-    color: violet;
-}
+
 
 h1{
     color: crimson;
+}
+
+h2{
+    color: blue;
 }
